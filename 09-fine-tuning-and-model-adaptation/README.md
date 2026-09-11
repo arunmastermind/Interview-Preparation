@@ -1,22 +1,5 @@
-# 09 - Fine-tuning & Model Adaptation
+# Section
 
-## Topics
+This section mirrors one top-level page from the Notion **Interview Preparation** workspace.
 
-01 - Prompting vs RAG vs Fine-tuning
-02 - Fine-tuning Fundamentals
-03 - Supervised Fine-tuning
-04 - Instruction Tuning
-05 - Parameter-Efficient Fine-tuning (PEFT)
-06 - LoRA
-07 - QLoRA
-08 - Quantization
-09 - Dataset Preparation
-10 - Fine-tuning Training Workflow
-11 - Evaluation Workflow
-12 - Catastrophic Forgetting
-13 - Preference Tuning
-14 - RLHF
-15 - DPO
-16 - Adapter Deployment
-
-Focus: choosing adaptation strategies, dataset quality, SFT, PEFT, LoRA/QLoRA, preference optimization, evaluation and production promotion.
+Each numbered directory below is a nested Notion topic. Open a topic directory to study its content. `README.md` is the navigation entry point; there is no separate INDEX file.

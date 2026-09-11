@@ -1,28 +1,5 @@
-# 03 - Machine Learning Fundamentals
+# Section
 
-## Topics
+This section mirrors one top-level page from the Notion **Interview Preparation** workspace.
 
-01 - Supervised vs Unsupervised Learning
-02 - Regression
-03 - Classification
-04 - Clustering
-05 - Feature Engineering
-06 - Data Preprocessing
-07 - Train Validation Test Split
-08 - Cross Validation
-09 - Overfitting & Underfitting
-10 - Bias Variance Trade-off
-11 - Regularization
-12 - Decision Trees
-13 - Random Forests
-14 - Gradient Boosting & XGBoost
-15 - Dimensionality Reduction
-16 - Imbalanced Data
-17 - Model Selection
-18 - Classification Metrics
-19 - Regression Metrics
-20 - Calibration
-21 - Error Analysis
-22 - Interpretability & Explainability
-
-Each topic contains interview preparation, practical programs and AI-engineering scenarios in Notion.
+Each numbered directory below is a nested Notion topic. Open a topic directory to study its content. `README.md` is the navigation entry point; there is no separate INDEX file.
